@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Engineering Role Notes/Data Engineering Concepts/DBT/Module 02/Configs and Variables.md",
+                "file": "Academics/FOR/Exam/2 Marks/2 Mark Rest.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Configs and Variables"
+              "title": "2 Mark Rest"
             }
           }
         ],
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academics/TQM/Exam/Unit -4/The Cost of Quality (COQ).md",
+                "file": "Academics/FOR/Exam/2 Marks/2 Mark Rest.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Cost of Quality (COQ)"
+              "title": "Backlinks for 2 Mark Rest"
             }
           },
           {
@@ -177,8 +177,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -191,42 +190,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "48aa58b0e9b0e8c8",
+  "active": "404db5d864fd572a",
   "lastOpenFiles": [
+    "Academics/FOR/BN Robotics Questions/2 Marks (1-2) Part -2.md",
+    "Academics/FOR/Exam/2 Marks/2 Mark Rest.md",
+    "Academics/FOR/Survival Kit/Note-2.md",
+    "Academics/FOR/Survival Kit/Note-1.md",
+    "Academics/FOR/Exam/Unit -1/End Effectors and Mechanical Grippers.md",
+    "Academics/FOR/Survival Kit",
+    "Academics/FOR/Exam/Unit -1/Images/Rotation Of Arm.jpg",
+    "Academics/FOR/Exam/Unit -1/Images/repeatability-vs-accuracy-table-500px.jpg",
+    "Academics/FOR/Exam/Unit -1/Images/DOF.jpg",
+    "Academics/FOR/Exam/Unit -1/Images/Degrees-of-freedom-for-the-robots.webp",
+    "Academics/FOR/Exam/Unit -1/Images/Robot Configuration/Scara Configuration.png",
+    "Academics/FOR/Exam/Unit -1/Images/Robot Configuration/Robot Configuration.jpg",
+    "Academics/FOR/Exam/Unit -5/Sample VAL Programs/Program -2.md",
+    "Academics/FOR/Exam/Unit -5/Sample VAL Programs/Program -3.md",
+    "Academics/FOR/Exam/Unit -5/Sample VAL Programs/Program -1.md",
+    "Academics/FOR/Exam/Unit -5/Methods of Robot Programming.md",
+    "Academics/FOR/Exam/Unit -5/Industrial application of robots.md",
+    "Academics/FOR/Exam/Unit -4/Images/Ultrasonic Sensor.jpeg",
+    "Academics/FOR/Exam/Unit -4/Images/Proximity-Sensor-Circuit-Diagram-when-Target-is-Detected.jpg",
+    "Academics/FOR/Exam/Unit -4/Images/Machine vision .png",
+    "Academics/FOR/Exam/Unit -1/Images/Robot Configuration/Robot Anatomy.jpg",
+    "Academics/FOR/Exam/Unit -5/PUMA.md",
+    "Academics/FOR/Exam/Unit -1/Robot Anatomy and Physical Configurations.md",
+    "Academics/FOR/Exam/Unit -1/Robot Specifications.md",
+    "Academics/FOR/Important Topics.md",
+    "Academics/FOR/Exam/Unit -4/Types of Sensors -2.md",
+    "Academics/FOR/Exam/Unit -4/Proximity and Range Sensor.md",
+    "Academics/FOR/Exam/Unit -4/Machine Vision.md",
+    "Academics/FOR/Exam/Unit -4/Image Processing And Steps.md",
+    "Academics/FOR/Exam/Unit -4/Difference Between Tactile and Touch Sensor.md",
+    "Academics/FOR/Exam/2 Marks/2 Marks (1-2).md",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/Module 06/Plus Dependency Operator.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/Module 02/Configs and Variables.md",
     "Academics/TQM/Exam/Unit -1/Philip Crosbys Zero Defects and 14 Steps.md",
     "Academics/FOR/Exam/Unit -4/Safety Considerations and Devices used in a Robotic Work Cell.md",
     "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Questions/How Versioning Works in Delta Lake.md",
     "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Delta Lake Commands in Different APIs/Delta Lake Commands in Different APIs.md",
-    "Academics/FOR/Exam/Unit -4/Image Processing And Steps.md",
-    "Academics/FOR/Exam/Unit -5/PUMA.md",
-    "Academics/FOR/Exam/Unit -4/Machine Vision.md",
-    "Academics/FOR/Exam/Unit -4/Types of Sensors -2.md",
-    "Academics/FOR/Exam/Unit -4/Proximity and Range Sensor.md",
-    "Academics/FOR/Exam/Unit -4/Difference Between Tactile and Touch Sensor.md",
-    "Academics/FOR/Exam/Unit -4/Images/Ultrasonic Sensor.jpeg",
-    "Academics/FOR/Exam/Unit -4/Images/Proximity-Sensor-Circuit-Diagram-when-Target-is-Detected.jpg",
-    "Academics/FOR/Exam/Unit -4/Images/Machine vision .png",
-    "Academics/FOR/Exam/Unit -3/Working of DC Servo Motor.md",
-    "Academics/FOR/Exam/Unit -3/Images/Types of Grippers/Structure-of-the-PWM-based-DC-Servo-Motor.webp",
-    "Academics/FOR/Exam/Unit -3/Images/Servo motor.webp",
-    "Academics/FOR/Exam/Unit -3/Working Of DC Motor.md",
-    "Academics/FOR/Exam/Unit -3/Types of Grippers.md",
-    "Academics/FOR/Exam/Unit -5/Methods of Robot Programming.md",
-    "Academics/FOR/Exam/Unit -5/Industrial application of robots.md",
-    "Academics/FOR/Exam/Unit -3/Images/construction-of-dc-motor.webp",
-    "Academics/FOR/Exam/Unit -3/Selection and Design of Robot Grippers.md",
-    "Academics/FOR/Exam/Unit -3/Images/What-is-a-Tactile-Sensor.webp",
-    "Academics/FOR/Exam/Unit -3/Images/Structure-of-the-PWM-based-DC-Servo-Motor.webp",
-    "Academics/FOR/Exam/Unit -3/Images/Types of Grippers/Vacuum Grippers.png",
-    "Academics/FOR/Exam/Unit -3/Images/Types of Grippers/Vacuum Grippers.jpg",
-    "Academics/FOR/Exam/Unit -1/End Effectors and Mechanical Grippers.md",
-    "Academics/FOR/Exam/Unit -2/Translation and Rotation Matrices.md",
-    "Academics/FOR/Exam/Unit -2/3 DOF in 2D Space.md",
-    "Academics/FOR/Exam/Unit -1/Robot Specifications.md",
-    "Academics/FOR/Exam/Unit -1/Robot Drive Systems (Actuators).md",
-    "Academics/FOR/Exam/Unit -1/Robot Applications and Industrial Need.md",
-    "Academics/FOR/Exam/Unit -1/Robot Anatomy and Physical Configurations.md",
-    "Academics/HVE/unit -3/Role of hypothesis in scientific research.md",
     "Academics/HVE/unit -4/Social Discrimination",
     "Academics/HVE/unit -4/Gender Bases Violence",
     "Academics/HVE/unit -3/Validating Facts",
@@ -234,11 +236,8 @@
     "Academics/HVE/unit -3/Scientific Thinking and Inductive Thinking",
     "Academics/HVE/unit -3/Proposing and Testing Hypothesis",
     "Academics/HVE/unit -3/Empiricism",
-    "Academics/HVE/unit -3/Inductive and Deductive Reasoning.md",
-    "Academics/HVE/unit -3/Significance of peer review.md",
     "Data Engineering Role Notes/Linux/AWK",
     "Academics/HVE/Unit -2/Secularism in India",
-    "Academics/HVE/Unit -2/Dissociation of state from religion",
     "Untitled.canvas"
   ]
 }
