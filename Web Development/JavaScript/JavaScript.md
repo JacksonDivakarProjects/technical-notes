@@ -1,0 +1,26 @@
+
+
+[[Types of JavaScript Applications in HTML]]
+[[Equality Operator]]
+[[String Operations]]
+[[Datatypes in JavaScript]]
+[[Operator - typeof]]
+[[Array Operations]]
+[[DOM (Document Object Model)]]
+[[Selecting HTML Elements Using DOM]]
+[[Manipulating Elements Using DOM]]
+[[DOM classList]]
+[[Attributes]]
+[[classList Functions (add,remove,toggle)]]
+[[Difference Between innerHTML and textContent]]
+[[Difference Between `var`, `let`, and `const`]]
+[[Event Listeners]]
+[[Higher Order Functions and Callback Functions]]
+[[Keystrokes in JavaScript]]
+[[Structure of HTML Elements in DOM Tree]]
+[[Loops in JavaScript]]
+[[Objects , this Keyword and Constructor]]
+[[setTimeout Function]]
+[[Switch Case in JavaScript]]
+
+

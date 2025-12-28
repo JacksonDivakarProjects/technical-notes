@@ -1,0 +1,6 @@
+[[Clear cache.png]]
+[[Linux Clear Cache]]
+[[LS parameters.png]]
+[[ps -aux parameters.png]]
+[[Sort Command.png]]
+[[YT-DLP]]

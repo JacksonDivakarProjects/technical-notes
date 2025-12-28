@@ -1,0 +1,5 @@
+[[Hash Join]]
+[[Heap Sort]]
+[[Merge Joins]]
+[[Nested Loops in SQL]]
+[[Quick Sort]]

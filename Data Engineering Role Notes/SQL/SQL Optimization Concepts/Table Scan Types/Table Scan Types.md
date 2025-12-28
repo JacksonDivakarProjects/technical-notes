@@ -1,0 +1,5 @@
+[[Bitmap Heap Scan]]
+[[Bitmap Index Scan]]
+[[Index and Index Only Scan]]
+[[Relationship between Bitmap Index Scan and Heap Scan]]
+[[Sequential Scan]]

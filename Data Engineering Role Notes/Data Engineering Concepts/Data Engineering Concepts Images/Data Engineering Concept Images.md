@@ -1,0 +1,7 @@
+[[Azure Concepts Images]]
+[[Azure Data Engineering Flow Images]]
+[[Data LakeHouse Images]]
+[[Data Modelling Images]]
+[[Miscellaneous Images]]
+[[SCD Images]]
+[[Schema Images]]

@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "f6320fd3c58fc12b",
+    "type": "split",
+    "children": [
+      {
+        "id": "5bc3d32dbe8f4914",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b594df7ce5b763a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Academics/FOR/Exam/Unit -3/Images/Types of Grippers/Adhesive Grippers.png"
+              },
+              "icon": "lucide-image",
+              "title": "Adhesive Grippers"
+            }
+          },
+          {
+            "id": "404db5d864fd572a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Engineering Role Notes/Data Engineering Concepts/DBT/Module 02/Configs and Variables.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Configs and Variables"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "982aa3570d287206",
+    "type": "split",
+    "children": [
+      {
+        "id": "08b5c6c1d28b9a38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48aa58b0e9b0e8c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5a95fa1b84e79a0c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c6b75045c179df28",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 341.5
+  },
+  "right": {
+    "id": "a6c8fb6b57f49f07",
+    "type": "split",
+    "children": [
+      {
+        "id": "a52f7cd038adba94",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3ed57804d3c6e14",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Academics/TQM/Exam/Unit -4/The Cost of Quality (COQ).md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Cost of Quality (COQ)"
+            }
+          },
+          {
+            "id": "3b31ec4a44f5cff1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Academics/TQM/Exam/Unit -4/The Cost of Quality (COQ).md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Cost of Quality (COQ)"
+            }
+          },
+          {
+            "id": "e5d8c56ade62da7f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "098a8206f2fe686a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "48aa58b0e9b0e8c8",
+  "lastOpenFiles": [
+    "Academics/TQM/Exam/Unit -1/Philip Crosbys Zero Defects and 14 Steps.md",
+    "Academics/FOR/Exam/Unit -4/Safety Considerations and Devices used in a Robotic Work Cell.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Questions/How Versioning Works in Delta Lake.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Delta Lake Commands in Different APIs/Delta Lake Commands in Different APIs.md",
+    "Academics/FOR/Exam/Unit -4/Image Processing And Steps.md",
+    "Academics/FOR/Exam/Unit -5/PUMA.md",
+    "Academics/FOR/Exam/Unit -4/Machine Vision.md",
+    "Academics/FOR/Exam/Unit -4/Types of Sensors -2.md",
+    "Academics/FOR/Exam/Unit -4/Proximity and Range Sensor.md",
+    "Academics/FOR/Exam/Unit -4/Difference Between Tactile and Touch Sensor.md",
+    "Academics/FOR/Exam/Unit -4/Images/Ultrasonic Sensor.jpeg",
+    "Academics/FOR/Exam/Unit -4/Images/Proximity-Sensor-Circuit-Diagram-when-Target-is-Detected.jpg",
+    "Academics/FOR/Exam/Unit -4/Images/Machine vision .png",
+    "Academics/FOR/Exam/Unit -3/Working of DC Servo Motor.md",
+    "Academics/FOR/Exam/Unit -3/Images/Types of Grippers/Structure-of-the-PWM-based-DC-Servo-Motor.webp",
+    "Academics/FOR/Exam/Unit -3/Images/Servo motor.webp",
+    "Academics/FOR/Exam/Unit -3/Working Of DC Motor.md",
+    "Academics/FOR/Exam/Unit -3/Types of Grippers.md",
+    "Academics/FOR/Exam/Unit -5/Methods of Robot Programming.md",
+    "Academics/FOR/Exam/Unit -5/Industrial application of robots.md",
+    "Academics/FOR/Exam/Unit -3/Images/construction-of-dc-motor.webp",
+    "Academics/FOR/Exam/Unit -3/Selection and Design of Robot Grippers.md",
+    "Academics/FOR/Exam/Unit -3/Images/What-is-a-Tactile-Sensor.webp",
+    "Academics/FOR/Exam/Unit -3/Images/Structure-of-the-PWM-based-DC-Servo-Motor.webp",
+    "Academics/FOR/Exam/Unit -3/Images/Types of Grippers/Vacuum Grippers.png",
+    "Academics/FOR/Exam/Unit -3/Images/Types of Grippers/Vacuum Grippers.jpg",
+    "Academics/FOR/Exam/Unit -1/End Effectors and Mechanical Grippers.md",
+    "Academics/FOR/Exam/Unit -2/Translation and Rotation Matrices.md",
+    "Academics/FOR/Exam/Unit -2/3 DOF in 2D Space.md",
+    "Academics/FOR/Exam/Unit -1/Robot Specifications.md",
+    "Academics/FOR/Exam/Unit -1/Robot Drive Systems (Actuators).md",
+    "Academics/FOR/Exam/Unit -1/Robot Applications and Industrial Need.md",
+    "Academics/FOR/Exam/Unit -1/Robot Anatomy and Physical Configurations.md",
+    "Academics/HVE/unit -3/Role of hypothesis in scientific research.md",
+    "Academics/HVE/unit -4/Social Discrimination",
+    "Academics/HVE/unit -4/Gender Bases Violence",
+    "Academics/HVE/unit -3/Validating Facts",
+    "Academics/HVE/unit -3/Skeptism",
+    "Academics/HVE/unit -3/Scientific Thinking and Inductive Thinking",
+    "Academics/HVE/unit -3/Proposing and Testing Hypothesis",
+    "Academics/HVE/unit -3/Empiricism",
+    "Academics/HVE/unit -3/Inductive and Deductive Reasoning.md",
+    "Academics/HVE/unit -3/Significance of peer review.md",
+    "Data Engineering Role Notes/Linux/AWK",
+    "Academics/HVE/Unit -2/Secularism in India",
+    "Academics/HVE/Unit -2/Dissociation of state from religion",
+    "Untitled.canvas"
+  ]
+}
