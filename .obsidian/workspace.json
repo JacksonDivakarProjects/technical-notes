@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Academics/FOR/Exam/2 Marks/2 Mark Rest.md",
+                "file": "Academics/TQM/Exam/Unit -1/Kaizen 5 S.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -40,7 +40,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2 Mark Rest"
+              "title": "Kaizen 5 S"
             }
           }
         ],
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academics/FOR/Exam/2 Marks/2 Mark Rest.md",
+                "file": "Academics/TQM/Exam/Unit -1/Kaizen 5 S.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2 Mark Rest"
+              "title": "Backlinks for Kaizen 5 S"
             }
           },
           {
@@ -192,8 +192,9 @@
   },
   "active": "404db5d864fd572a",
   "lastOpenFiles": [
-    "Academics/FOR/BN Robotics Questions/2 Marks (1-2) Part -2.md",
     "Academics/FOR/Exam/2 Marks/2 Mark Rest.md",
+    "Academics/TQM/Exam/Unit -1/Kaizen 5 S.md",
+    "Academics/FOR/BN Robotics Questions/2 Marks (1-2) Part -2.md",
     "Academics/FOR/Survival Kit/Note-2.md",
     "Academics/FOR/Survival Kit/Note-1.md",
     "Academics/FOR/Exam/Unit -1/End Effectors and Mechanical Grippers.md",
@@ -228,7 +229,6 @@
     "Academics/TQM/Exam/Unit -1/Philip Crosbys Zero Defects and 14 Steps.md",
     "Academics/FOR/Exam/Unit -4/Safety Considerations and Devices used in a Robotic Work Cell.md",
     "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Questions/How Versioning Works in Delta Lake.md",
-    "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Delta Lake Commands in Different APIs/Delta Lake Commands in Different APIs.md",
     "Academics/HVE/unit -4/Social Discrimination",
     "Academics/HVE/unit -4/Gender Bases Violence",
     "Academics/HVE/unit -3/Validating Facts",
