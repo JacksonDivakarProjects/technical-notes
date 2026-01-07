@@ -11,21 +11,9 @@
             "id": "9b594df7ce5b763a",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Academics/FOR/Exam/Unit -3/Images/Types of Grippers/Adhesive Grippers.png"
-              },
-              "icon": "lucide-image",
-              "title": "Adhesive Grippers"
-            }
-          },
-          {
-            "id": "404db5d864fd572a",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "Academics/TQM/Exam/Unit -1/Kaizen 5 S.md",
+                "file": "Data Engineering Role Notes/SQL/SQL Optimization Concepts/Basic SQL Optimizations.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -40,11 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kaizen 5 S"
+              "title": "Basic SQL Optimizations"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -117,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Academics/TQM/Exam/Unit -1/Kaizen 5 S.md",
+                "file": "Data Engineering Role Notes/SQL/SQL Optimization Concepts/Basic SQL Optimizations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Kaizen 5 S"
+              "title": "Backlinks for Basic SQL Optimizations"
             }
           },
           {
@@ -190,10 +177,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "404db5d864fd572a",
+  "active": "9b594df7ce5b763a",
   "lastOpenFiles": [
-    "Academics/FOR/Exam/2 Marks/2 Mark Rest.md",
+    "Data Engineering Role Notes/SQL/Advanced Topics/Advanced Topics.md",
+    "Data Engineering Role Notes/SQL/Advanced Topics/Advanced SQL Aggregation ( Grouping , Rollup ,Cube).md",
+    "Data Engineering Role Notes/SQL/SQL.md",
+    "Academics/ITAS/Decision Support Systems (DSS).md",
     "Academics/TQM/Exam/Unit -1/Kaizen 5 S.md",
+    "Academics/FOR/Exam/2 Marks/2 Mark Rest.md",
     "Academics/FOR/BN Robotics Questions/2 Marks (1-2) Part -2.md",
     "Academics/FOR/Survival Kit/Note-2.md",
     "Academics/FOR/Survival Kit/Note-1.md",
@@ -225,10 +216,6 @@
     "Academics/FOR/Exam/Unit -4/Difference Between Tactile and Touch Sensor.md",
     "Academics/FOR/Exam/2 Marks/2 Marks (1-2).md",
     "Data Engineering Role Notes/Data Engineering Concepts/DBT/Module 06/Plus Dependency Operator.md",
-    "Data Engineering Role Notes/Data Engineering Concepts/DBT/Module 02/Configs and Variables.md",
-    "Academics/TQM/Exam/Unit -1/Philip Crosbys Zero Defects and 14 Steps.md",
-    "Academics/FOR/Exam/Unit -4/Safety Considerations and Devices used in a Robotic Work Cell.md",
-    "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Questions/How Versioning Works in Delta Lake.md",
     "Academics/HVE/unit -4/Social Discrimination",
     "Academics/HVE/unit -4/Gender Bases Violence",
     "Academics/HVE/unit -3/Validating Facts",
