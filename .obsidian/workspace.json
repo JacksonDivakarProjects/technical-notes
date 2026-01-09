@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Engineering Role Notes/SQL/SQL Optimization Concepts/Basic SQL Optimizations.md",
+                "file": "Data Engineering Role Notes/Data Science/Data Analysis/Data Analysis Roadmap/Framework Based Data Analysis.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Basic SQL Optimizations"
+              "title": "Framework Based Data Analysis"
             }
           }
         ]
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Engineering Role Notes/SQL/SQL Optimization Concepts/Basic SQL Optimizations.md",
+                "file": "Data Engineering Role Notes/Data Science/Data Analysis/Data Analysis Roadmap/Framework Based Data Analysis.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Basic SQL Optimizations"
+              "title": "Backlinks for Framework Based Data Analysis"
             }
           },
           {
@@ -179,6 +179,10 @@
   },
   "active": "9b594df7ce5b763a",
   "lastOpenFiles": [
+    "Data Engineering Role Notes/Data Science/Data Analysis/Data Analysis Roadmap/Youtube Channel List.md",
+    "Data Engineering Role Notes/Data Science/Data Analysis/Data Analysis Roadmap/Framework Based Data Analysis.md",
+    "Data Engineering Role Notes/SQL/SQL Optimization Concepts/Basic SQL Optimizations.md",
+    "Data Engineering Role Notes/Data Science/Data Analysis/Data Analysis Roadmap",
     "Data Engineering Role Notes/SQL/Advanced Topics/Advanced Topics.md",
     "Data Engineering Role Notes/SQL/Advanced Topics/Advanced SQL Aggregation ( Grouping , Rollup ,Cube).md",
     "Data Engineering Role Notes/SQL/SQL.md",
@@ -213,9 +217,6 @@
     "Academics/FOR/Exam/Unit -4/Proximity and Range Sensor.md",
     "Academics/FOR/Exam/Unit -4/Machine Vision.md",
     "Academics/FOR/Exam/Unit -4/Image Processing And Steps.md",
-    "Academics/FOR/Exam/Unit -4/Difference Between Tactile and Touch Sensor.md",
-    "Academics/FOR/Exam/2 Marks/2 Marks (1-2).md",
-    "Data Engineering Role Notes/Data Engineering Concepts/DBT/Module 06/Plus Dependency Operator.md",
     "Academics/HVE/unit -4/Social Discrimination",
     "Academics/HVE/unit -4/Gender Bases Violence",
     "Academics/HVE/unit -3/Validating Facts",
@@ -224,7 +225,6 @@
     "Academics/HVE/unit -3/Proposing and Testing Hypothesis",
     "Academics/HVE/unit -3/Empiricism",
     "Data Engineering Role Notes/Linux/AWK",
-    "Academics/HVE/Unit -2/Secularism in India",
     "Untitled.canvas"
   ]
 }
