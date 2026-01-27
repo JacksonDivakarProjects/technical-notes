@@ -8,13 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9b594df7ce5b763a",
+            "id": "404db5d864fd572a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Engineering Role Notes/Data Science/Data Analysis/Data Analysis Roadmap/Framework Based Data Analysis.md",
-                "mode": "preview",
+                "file": "Data Engineering Role Notes/Data Engineering Concepts/DBT/DBT Course/Tests In DBT/Tests in DBT.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Framework Based Data Analysis"
+              "title": "Tests in DBT"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 277.5
   },
   "right": {
     "id": "a6c8fb6b57f49f07",
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Engineering Role Notes/Data Science/Data Analysis/Data Analysis Roadmap/Framework Based Data Analysis.md",
+                "file": "Academics/TQM/Exam/Unit -4/Taguchi's Quality Loss Function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Framework Based Data Analysis"
+              "title": "Backlinks for Taguchi's Quality Loss Function"
             }
           },
           {
@@ -164,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,54 +178,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b594df7ce5b763a",
+  "active": "48aa58b0e9b0e8c8",
   "lastOpenFiles": [
-    "Data Engineering Role Notes/Data Science/Data Analysis/Data Analysis Roadmap/Youtube Channel List.md",
-    "Data Engineering Role Notes/Data Science/Data Analysis/Data Analysis Roadmap/Framework Based Data Analysis.md",
-    "Data Engineering Role Notes/SQL/SQL Optimization Concepts/Basic SQL Optimizations.md",
-    "Data Engineering Role Notes/Data Science/Data Analysis/Data Analysis Roadmap",
-    "Data Engineering Role Notes/SQL/Advanced Topics/Advanced Topics.md",
-    "Data Engineering Role Notes/SQL/Advanced Topics/Advanced SQL Aggregation ( Grouping , Rollup ,Cube).md",
-    "Data Engineering Role Notes/SQL/SQL.md",
-    "Academics/ITAS/Decision Support Systems (DSS).md",
-    "Academics/TQM/Exam/Unit -1/Kaizen 5 S.md",
-    "Academics/FOR/Exam/2 Marks/2 Mark Rest.md",
-    "Academics/FOR/BN Robotics Questions/2 Marks (1-2) Part -2.md",
-    "Academics/FOR/Survival Kit/Note-2.md",
-    "Academics/FOR/Survival Kit/Note-1.md",
-    "Academics/FOR/Exam/Unit -1/End Effectors and Mechanical Grippers.md",
-    "Academics/FOR/Survival Kit",
-    "Academics/FOR/Exam/Unit -1/Images/Rotation Of Arm.jpg",
-    "Academics/FOR/Exam/Unit -1/Images/repeatability-vs-accuracy-table-500px.jpg",
-    "Academics/FOR/Exam/Unit -1/Images/DOF.jpg",
-    "Academics/FOR/Exam/Unit -1/Images/Degrees-of-freedom-for-the-robots.webp",
-    "Academics/FOR/Exam/Unit -1/Images/Robot Configuration/Scara Configuration.png",
-    "Academics/FOR/Exam/Unit -1/Images/Robot Configuration/Robot Configuration.jpg",
-    "Academics/FOR/Exam/Unit -5/Sample VAL Programs/Program -2.md",
-    "Academics/FOR/Exam/Unit -5/Sample VAL Programs/Program -3.md",
-    "Academics/FOR/Exam/Unit -5/Sample VAL Programs/Program -1.md",
-    "Academics/FOR/Exam/Unit -5/Methods of Robot Programming.md",
-    "Academics/FOR/Exam/Unit -5/Industrial application of robots.md",
-    "Academics/FOR/Exam/Unit -4/Images/Ultrasonic Sensor.jpeg",
-    "Academics/FOR/Exam/Unit -4/Images/Proximity-Sensor-Circuit-Diagram-when-Target-is-Detected.jpg",
-    "Academics/FOR/Exam/Unit -4/Images/Machine vision .png",
-    "Academics/FOR/Exam/Unit -1/Images/Robot Configuration/Robot Anatomy.jpg",
-    "Academics/FOR/Exam/Unit -5/PUMA.md",
-    "Academics/FOR/Exam/Unit -1/Robot Anatomy and Physical Configurations.md",
-    "Academics/FOR/Exam/Unit -1/Robot Specifications.md",
-    "Academics/FOR/Important Topics.md",
-    "Academics/FOR/Exam/Unit -4/Types of Sensors -2.md",
-    "Academics/FOR/Exam/Unit -4/Proximity and Range Sensor.md",
-    "Academics/FOR/Exam/Unit -4/Machine Vision.md",
-    "Academics/FOR/Exam/Unit -4/Image Processing And Steps.md",
-    "Academics/HVE/unit -4/Social Discrimination",
-    "Academics/HVE/unit -4/Gender Bases Violence",
-    "Academics/HVE/unit -3/Validating Facts",
-    "Academics/HVE/unit -3/Skeptism",
-    "Academics/HVE/unit -3/Scientific Thinking and Inductive Thinking",
-    "Academics/HVE/unit -3/Proposing and Testing Hypothesis",
-    "Academics/HVE/unit -3/Empiricism",
-    "Data Engineering Role Notes/Linux/AWK",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/DBT Course",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/Module 04/Custom Generic Tests.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/DBT Course/Tests In DBT/Tests in DBT.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/DBT Course/Tests In DBT",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/Module 05/Snapshots & Change Tracking.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/Module 05/dbt Node Selection Syntax.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/Module 06/Plus Dependency Operator.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/Module 06/Difference Between dbt run and dbt build.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/Module 06/DBT Flags.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/DBT Course/YAML File/Dash in YAML.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/DBT Course/DBT Topic Links/Sources YAML File.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/DBT Course/DBT Topic Links/Source Freshness.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/DBT Course/DBT Topic Links/DBT Generic Test YAML (dbt_utils).md",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/DBT Course/DBT Topic Links/Code Gen Package.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/DBT Course/DBT Topic Links/DBT Tests.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/DBT Course/Documentation/Documentation in YAML.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/DBT Course/Documentation",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/DBT Course/YAML File/DBT Course/Types of YAML File.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/DBT Course/YAML File/DBT Course/YAML File and Its Structure.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/DBT Course/YAML File/DBT Course",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/DBT Course/Jinja/Length in Jinja.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/Module 02/Configs and Variables.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/Module 02/Configuration Files.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/Module 02/File Association & VS Code Setup.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/DBT Course/Jinja/Jinja Templating Fundamentals.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/DBT Course/Jinja/Jinja Data Structures.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/DBT Course/Jinja/Jinja SQL.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/DBT Course/Jinja",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/DBT Course/DBT Topic Links",
+    "Data Engineering Role Notes/Data Science/Probability For DS/Hypothesis Errors/Types of Errors in Hypothesis Testing.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/DBT/DBT Course/YAML File",
+    "Data Engineering Role Notes/Data Science/Probability For DS/Hypothesis Errors/Hypothesis Errors Images/error.jpg",
+    "Data Engineering Role Notes/Data Science/Probability For DS/Hypothesis Errors/Hypothesis Errors Images/Screenshot From 2026-01-16 15-34-47.png",
+    "Data Engineering Role Notes/Data Science/Probability For DS/Hypothesis Errors/Hypothesis Errors Images/Error in Distribution.webp",
+    "Data Engineering Role Notes/Data Science/Probability For DS/Statistics/P value and Hypothesis Testing.md",
+    "Data Engineering Role Notes/Data Science/Probability For DS/Statistics",
+    "Academics/PRW/Exam/unit 5/Next",
+    "Academics/PRW/Exam/unit 4/Next",
+    "Academics/PRW/Exam/unit 2/Next",
+    "Academics/ITAS/Images/decision-support-system-Components.png",
+    "Academics/ITAS/Images/ES.jpg",
+    "Academics/ITAS/Images/El Nino/Screenshot from 2025-12-14 20-37-29.png",
+    "Academics/ITAS/Images/El Nino/Screenshot from 2025-12-14 20-32-59.png",
+    "Academics/ITAS/Images/El Nino/Screenshot from 2025-12-14 20-31-11.png",
+    "Academics/ITAS/Images/El Nino/ELNino.png",
+    "Academics/TQM/Exam/Unit -4/Images/Taguchi Loss Function.png",
     "Untitled.canvas"
   ]
 }
