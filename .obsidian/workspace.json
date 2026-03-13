@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5bc3d32dbe8f4914",
+        "id": "f3152588ae3554fc",
         "type": "tabs",
         "children": [
           {
-            "id": "9b594df7ce5b763a",
+            "id": "df176a5d9334b417",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Engineering Role Notes/Data Science/Data Analysis/Data Analysis Roadmap/Framework Based Data Analysis.md",
+                "file": "Final Year Project/Papers/Paper 2 Jiang et al. 2024.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,47 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Framework Based Data Analysis"
+              "title": "Paper 2 Jiang et al. 2024"
+            }
+          },
+          {
+            "id": "e34611acdc54a58d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Data Engineering Role Notes/Data Science/Pandas/Pandas .explode().md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Pandas .explode()"
+            }
+          },
+          {
+            "id": "28cd1c80a561c489",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Data Engineering Role Notes/Data Engineering Concepts/Data Engineering Concepts Images/Azure Concepts Images/Image -1.png"
+              },
+              "icon": "lucide-image",
+              "title": "Image -1"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Engineering Role Notes/Data Science/Data Analysis/Data Analysis Roadmap/Framework Based Data Analysis.md",
+                "file": "Data Engineering Role Notes/Airflow Scheduler/Airflow Installation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +151,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Framework Based Data Analysis"
+              "title": "Backlinks for Airflow Installation"
             }
           },
           {
@@ -164,7 +201,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,54 +215,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9b594df7ce5b763a",
+  "active": "48aa58b0e9b0e8c8",
   "lastOpenFiles": [
-    "Data Engineering Role Notes/Data Science/Data Analysis/Data Analysis Roadmap/Youtube Channel List.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/Data Bricks/Ansh Video/Images/firefox_L191T6blPF.png",
+    "Data Engineering Role Notes/Data Engineering Concepts/Data Bricks/Ansh Video/firefox_L191T6blPF.png",
+    "Data Engineering Role Notes/Data Engineering Concepts/Data Bricks/Ansh Video/Images - Shortcut.lnk",
+    "Data Engineering Role Notes/Data Engineering Concepts/Data Bricks/Ansh Video/Images/Screenshot 2026-03-08 at 06-36-31 Azure Data Engineer Full Course For Beginners (2026 Step-By-Step Guide) - YouTube.png",
+    "Data Engineering Role Notes/Data Engineering Concepts/Data Bricks/Ansh Video/Images",
+    "Data Engineering Role Notes/Data Engineering Concepts/Data Bricks/Ansh Video",
+    "Data Engineering Role Notes/Data Engineering Concepts/Data Engineering Concepts Images/Azure Concepts Images/Azure Concepts Images.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/Data Engineering Concepts Images/Azure Data Engineering Flow Images/Image -3.png",
+    "Data Engineering Role Notes/Data Engineering Concepts/Data Engineering Concepts Images/Azure Data Engineering Flow Images/Azure Data Engineering Flow Images.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/Data Engineering Concepts Images/Azure Data Engineering Flow Images/Image -1.png",
+    "Data Engineering Role Notes/Data Engineering Concepts/Data Engineering Concepts Images/Azure Data Engineering Flow Images/Image -2.png",
+    "Data Engineering Role Notes/Data Engineering Concepts/Data Engineering Concepts Images/Azure Data Engineering Flow Images/Image -5.png",
+    "Data Engineering Role Notes/Data Engineering Concepts/Data Engineering Concepts Images/Azure Data Engineering Flow Images/Image -7.png",
+    "Data Engineering Role Notes/Data Engineering Concepts/Data Engineering Concepts Images/Azure Data Engineering Flow Images/Image -6.png",
+    "Data Engineering Role Notes/Data Engineering Concepts/Data Engineering Concepts Images/Azure Data Engineering Flow Images/Image -4.png",
+    "Final Year Project/Papers/Reference Papers.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/Azure Data Engineering/Images/Self Hosted File System Config.png",
+    "Data Engineering Role Notes/Data Engineering Concepts/Azure Data Engineering/Images",
+    "Data Engineering Role Notes/Data Engineering Concepts/Azure Data Engineering",
+    "Final Year Project/Sentence in Paper/KPIS and Formulas.md",
+    "Final Year Project/Papers/Sections In Papers.md",
+    "Final Year Project/Papers/Important Elements in Papers.md",
+    "Final Year Project/Papers/Paper 1 - Jasseur and Filali.md",
+    "Final Year Project/Papers/Paper 2 Jiang et al. 2024.md",
+    "Final Year Project/Sentence in Paper/Face Detection.md",
+    "Final Year Project/Sentence in Paper",
+    "Final Year Project/Face Detection and DB Updation.md",
+    "Final Year Project/Papers",
+    "Final Year Project/Flow Diagrams",
+    "Final Year Project/New folder",
+    "Data Engineering Role Notes/Airflow Scheduler/Airflow Installation.md",
+    "Final Year Project",
+    "Data Engineering Role Notes/Data Engineering Role Notes.md",
+    "Web Development/React/React Topics/Introduction to JSX and Babel.md",
+    "Web Development/React/React Topics/React Topics.md",
+    "Web Development/React/React Topics/State in React - Declarative vs. Imperative Programming.md",
+    "Web Development/React/React Topics/What We Will Make in This React Module.md",
+    "Web Development/React/React Topics/What is React.md",
+    "Web Development/React/React.md",
+    "Web Development/Ngrok/Ngrok and Express.js.md",
+    "Web Development/React/React Topics/Async-Await.md",
+    "Web Development/React/JSX/JSX.md",
     "Data Engineering Role Notes/Data Science/Data Analysis/Data Analysis Roadmap/Framework Based Data Analysis.md",
+    "Data Engineering Role Notes/Data Science/Data Analysis/Data Analysis Roadmap/Roadmap Table.md",
+    "Data Engineering Role Notes/Data Science/Data Analysis/Data Analysis Roadmap/Youtube Channel List.md",
     "Data Engineering Role Notes/SQL/SQL Optimization Concepts/Basic SQL Optimizations.md",
-    "Data Engineering Role Notes/Data Science/Data Analysis/Data Analysis Roadmap",
-    "Data Engineering Role Notes/SQL/Advanced Topics/Advanced Topics.md",
-    "Data Engineering Role Notes/SQL/Advanced Topics/Advanced SQL Aggregation ( Grouping , Rollup ,Cube).md",
-    "Data Engineering Role Notes/SQL/SQL.md",
-    "Academics/ITAS/Decision Support Systems (DSS).md",
-    "Academics/TQM/Exam/Unit -1/Kaizen 5 S.md",
-    "Academics/FOR/Exam/2 Marks/2 Mark Rest.md",
-    "Academics/FOR/BN Robotics Questions/2 Marks (1-2) Part -2.md",
-    "Academics/FOR/Survival Kit/Note-2.md",
-    "Academics/FOR/Survival Kit/Note-1.md",
-    "Academics/FOR/Exam/Unit -1/End Effectors and Mechanical Grippers.md",
-    "Academics/FOR/Survival Kit",
-    "Academics/FOR/Exam/Unit -1/Images/Rotation Of Arm.jpg",
-    "Academics/FOR/Exam/Unit -1/Images/repeatability-vs-accuracy-table-500px.jpg",
-    "Academics/FOR/Exam/Unit -1/Images/DOF.jpg",
-    "Academics/FOR/Exam/Unit -1/Images/Degrees-of-freedom-for-the-robots.webp",
-    "Academics/FOR/Exam/Unit -1/Images/Robot Configuration/Scara Configuration.png",
-    "Academics/FOR/Exam/Unit -1/Images/Robot Configuration/Robot Configuration.jpg",
-    "Academics/FOR/Exam/Unit -5/Sample VAL Programs/Program -2.md",
-    "Academics/FOR/Exam/Unit -5/Sample VAL Programs/Program -3.md",
-    "Academics/FOR/Exam/Unit -5/Sample VAL Programs/Program -1.md",
-    "Academics/FOR/Exam/Unit -5/Methods of Robot Programming.md",
-    "Academics/FOR/Exam/Unit -5/Industrial application of robots.md",
-    "Academics/FOR/Exam/Unit -4/Images/Ultrasonic Sensor.jpeg",
-    "Academics/FOR/Exam/Unit -4/Images/Proximity-Sensor-Circuit-Diagram-when-Target-is-Detected.jpg",
-    "Academics/FOR/Exam/Unit -4/Images/Machine vision .png",
-    "Academics/FOR/Exam/Unit -1/Images/Robot Configuration/Robot Anatomy.jpg",
-    "Academics/FOR/Exam/Unit -5/PUMA.md",
-    "Academics/FOR/Exam/Unit -1/Robot Anatomy and Physical Configurations.md",
-    "Academics/FOR/Exam/Unit -1/Robot Specifications.md",
-    "Academics/FOR/Important Topics.md",
-    "Academics/FOR/Exam/Unit -4/Types of Sensors -2.md",
-    "Academics/FOR/Exam/Unit -4/Proximity and Range Sensor.md",
-    "Academics/FOR/Exam/Unit -4/Machine Vision.md",
-    "Academics/FOR/Exam/Unit -4/Image Processing And Steps.md",
-    "Academics/HVE/unit -4/Social Discrimination",
-    "Academics/HVE/unit -4/Gender Bases Violence",
-    "Academics/HVE/unit -3/Validating Facts",
-    "Academics/HVE/unit -3/Skeptism",
-    "Academics/HVE/unit -3/Scientific Thinking and Inductive Thinking",
-    "Academics/HVE/unit -3/Proposing and Testing Hypothesis",
-    "Academics/HVE/unit -3/Empiricism",
-    "Data Engineering Role Notes/Linux/AWK",
     "Untitled.canvas"
   ]
 }
