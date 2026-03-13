@@ -1,0 +1,1 @@
+https://learn.getdbt.com/learn/course/dbt-fundamentals-vs-code/sources-60min/understanding-sources?page=6

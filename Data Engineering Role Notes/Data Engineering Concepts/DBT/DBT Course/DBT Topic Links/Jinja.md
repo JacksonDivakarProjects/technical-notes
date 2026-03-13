@@ -1,0 +1,1 @@
+https://learn.getdbt.com/learn/course/jinja-macros-and-packages-vs-code/getting-started-with-jinja-40min/jinja-basics?page=11
