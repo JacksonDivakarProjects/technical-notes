@@ -2,7 +2,7 @@
 # Notebook Links
 
 
-[[SQL Images]]
+[[SQL DS Images]]
 [[SQL Functions]]
 [[Tricks and Tips]]
 [[Other Important Topics]]
@@ -10,7 +10,7 @@
 [[SQL Optimization Concepts]]
 [[Recursive CTE]]
 [[Stored Procedures Notes]]
-[[Advanced Topics]]
+[[Data Engineering Role Notes/SQL/Advanced Topics/Advanced Topics]]
 [[Data Engineering Role Notes/SQL/Miscellaneous/Miscellaneous|Miscellaneous]]
 
 

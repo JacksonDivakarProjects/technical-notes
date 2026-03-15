@@ -1,5 +1,0 @@
-[[Set Operations in SQL]]
-[[Lateral Joins]]
-[[Triggers in SQL]]
-[[Materialized View In Postgres SQL]]
-[[Advanced SQL Aggregation ( Grouping , Rollup ,Cube)]]
