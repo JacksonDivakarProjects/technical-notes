@@ -79,14 +79,3 @@ text
 
 ---
 
-This guide covers all essential theory, practical usage, and limitations of Bitmap Index Scan in PostgreSQL for easy revision.[yugabyte+5](https://www.yugabyte.com/blog/bitmap-scans-on-distributed-postgresql/)​
-
-1. [https://pganalyze.com/docs/explain/scan-nodes/bitmap-index-scan](https://pganalyze.com/docs/explain/scan-nodes/bitmap-index-scan)
-2. [https://www.postgresql.org/docs/current/indexes-bitmap-scans.html](https://www.postgresql.org/docs/current/indexes-bitmap-scans.html)
-3. [https://www.percona.com/blog/one-index-three-different-postgresql-scan-types-bitmap-index-and-index-only/](https://www.percona.com/blog/one-index-three-different-postgresql-scan-types-bitmap-index-and-index-only/)
-4. [https://www.pgmustard.com/docs/explain/bitmap-index-scan](https://www.pgmustard.com/docs/explain/bitmap-index-scan)
-5. [https://dev.to/aws-heroes/postgresql-bitmap-scan-with-gin-indexes-on-array-or-secondary-table-with-index-only-scan-23fl](https://dev.to/aws-heroes/postgresql-bitmap-scan-with-gin-indexes-on-array-or-secondary-table-with-index-only-scan-23fl)
-6. [https://www.yugabyte.com/blog/bitmap-scans-on-distributed-postgresql/](https://www.yugabyte.com/blog/bitmap-scans-on-distributed-postgresql/)
-7. [https://www.cybertec-postgresql.com/en/postgresql-indexing-index-scan-vs-bitmap-scan-vs-sequential-scan-basics/](https://www.cybertec-postgresql.com/en/postgresql-indexing-index-scan-vs-bitmap-scan-vs-sequential-scan-basics/)
-8. [https://stackoverflow.com/questions/10145037/understanding-postgres-explain-w-bitmap-heap-index-scans](https://stackoverflow.com/questions/10145037/understanding-postgres-explain-w-bitmap-heap-index-scans)
-9. [https://www.postgresql.org/docs/current/index-scanning.html](https://www.postgresql.org/docs/current/index-scanning.html)

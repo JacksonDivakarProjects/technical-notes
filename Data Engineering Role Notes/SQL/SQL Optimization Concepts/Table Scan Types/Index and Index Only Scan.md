@@ -144,13 +144,3 @@ sql
 - Analyze your frequent queries and consider covering indexes for high-value read operations.
     
 
-If you’d like hands-on examples, query plan examination tips, or advice for your specific SQL database, let me know!
-
-1. [https://pganalyze.com/docs/explain/scan-nodes/index-only-scan](https://pganalyze.com/docs/explain/scan-nodes/index-only-scan)
-2. [https://www.postgresql.org/docs/current/indexes-index-only-scans.html](https://www.postgresql.org/docs/current/indexes-index-only-scans.html)
-3. [https://www.geopits.com/blog/differences-between-sql-server-clustered-index-scan-and-index-seek](https://www.geopits.com/blog/differences-between-sql-server-clustered-index-scan-and-index-seek)
-4. [https://www.percona.com/blog/one-index-three-different-postgresql-scan-types-bitmap-index-and-index-only/](https://www.percona.com/blog/one-index-three-different-postgresql-scan-types-bitmap-index-and-index-only/)
-5. [https://jsupskills.dev/index-scan-vs-index-only-scan-optimizing-database/](https://jsupskills.dev/index-scan-vs-index-only-scan-optimizing-database/)
-6. [https://use-the-index-luke.com/sql/clustering/index-only-scan-covering-index](https://use-the-index-luke.com/sql/clustering/index-only-scan-covering-index)
-7. [https://stackoverflow.com/questions/58353480/what-is-the-difference-between-index-only-and-bitmap-index-scan-in-postgresql](https://stackoverflow.com/questions/58353480/what-is-the-difference-between-index-only-and-bitmap-index-scan-in-postgresql)
-8. [https://www.c-sharpcorner.com/article/the-complete-reference-table-scan-index-scan-and-index-seek/](https://www.c-sharpcorner.com/article/the-complete-reference-table-scan-index-scan-and-index-seek/)
