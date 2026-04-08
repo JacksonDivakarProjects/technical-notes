@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI Notes/Roles and Their Purpose.md",
+                "file": "Presentation Notes/Kmeans Statement.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Roles and Their Purpose"
+              "title": "Kmeans Statement"
             }
           }
         ]
@@ -181,8 +181,10 @@
   },
   "active": "54d8c3359884386f",
   "lastOpenFiles": [
-    "AI Notes/AutoModel Class.md",
     "AI Notes/Roles and Their Purpose.md",
+    "Presentation Notes/Kmeans Statement.md",
+    "Presentation Notes",
+    "AI Notes/AutoModel Class.md",
     "Data Engineering Role Notes/Pyspark/Pyspark Streaming/ForEachBatch.md",
     "AI Notes",
     "Data Engineering Role Notes/Pyspark/Pyspark Streaming/Output Modes in Streaming.md",
@@ -219,13 +221,11 @@
     "Data Engineering Role Notes/Data Engineering Concepts/Data Bricks/Databricks Training Images",
     "Data Engineering Role Notes/Data Engineering Concepts/Data Bricks/New folder",
     "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Delta Lake Commands in Different APIs/Delta Lake Commands in SQL API.md",
-    "Temp/Temp",
     "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Delta Lake Commands in Different APIs/Delta Lake Commands in Python API with Spark.md",
     "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Delta Lake Commands in Different APIs/Delta Lake Commands in Different APIs.md",
     "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Important TBLProperties/Change Data Feed.md",
     "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Important TBLProperties/Important TBLProperties.md",
     "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Important TBLProperties/Table Utility Essential Commands.md",
-    "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Important TBLProperties/Table Utility Commands.md",
-    "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Other Important Concepts/Schema Operations.md"
+    "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Important TBLProperties/Table Utility Commands.md"
   ]
 }
