@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Engineering Role Notes/Pyspark/Pyspark Streaming/Archive Source File.md",
+                "file": "AI Notes/Roles and Their Purpose.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Archive Source File"
+              "title": "Roles and Their Purpose"
             }
           }
         ]
@@ -181,7 +181,20 @@
   },
   "active": "54d8c3359884386f",
   "lastOpenFiles": [
+    "AI Notes/AutoModel Class.md",
+    "AI Notes/Roles and Their Purpose.md",
+    "Data Engineering Role Notes/Pyspark/Pyspark Streaming/ForEachBatch.md",
+    "AI Notes",
+    "Data Engineering Role Notes/Pyspark/Pyspark Streaming/Output Modes in Streaming.md",
+    "Data Engineering Role Notes/Pyspark/Pyspark Streaming/Types Of Windows.md",
+    "Data Engineering Role Notes/Pyspark/Pyspark Streaming/Types Of Triggers.md",
+    "Data Engineering Role Notes/Pyspark/Pyspark Streaming/Checkpointing And Idempotency.md",
+    "Data Engineering Role Notes/Pyspark/Pyspark Streaming/Explode vs Explode Outer.md",
+    "Data Engineering Role Notes/Pyspark/Pyspark Streaming/Pyspark Streaming.md",
+    "Data Engineering Role Notes/Pyspark/Pyspark Streaming/Spark Streaming Foundational Concepts.md",
     "Data Engineering Role Notes/Pyspark/Pyspark Streaming/Autoloader In Spark Structured Streaming.md",
+    "Data Engineering Role Notes/Pyspark/Pyspark Streaming/Why Complete Mode not Working in Watermarking.md",
+    "Data Engineering Role Notes/Pyspark/Pyspark Streaming/Archive Source File.md",
     "Data Engineering Role Notes/Data Engineering Concepts/Data Bricks/Databricks Training Images/Unity Catalog/firefox_HH7poOn6oi.png",
     "Data Engineering Role Notes/SQL/SQL Optimization Concepts/Indexing/Indexing Images/Index Usage/firefox_ky1VPDTZR9.png",
     "Data Engineering Role Notes/Data Engineering Concepts/Data Bricks/Databricks Concepts/Managed Vs External Tables.md",
@@ -213,18 +226,6 @@
     "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Important TBLProperties/Important TBLProperties.md",
     "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Important TBLProperties/Table Utility Essential Commands.md",
     "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Important TBLProperties/Table Utility Commands.md",
-    "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Other Important Concepts/Schema Operations.md",
-    "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Other Important Concepts/Delta Lake Uniform Format.md",
-    "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Other Important Concepts/Open Table Format.md",
-    "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Other Important Concepts/Optimize, ZOrdering, Liquid Clustering.md",
-    "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Other Important Concepts/Other Important Concepts.md",
-    "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Questions/How Versioning Works in Delta Lake.md",
-    "Data Engineering Role Notes/Pyspark/Pyspark Read & Write Operations.md",
-    "Data Engineering Role Notes/Pyspark/Aggregation and Window Function.md",
-    "Data Engineering Role Notes/SQL/Window Functions/SQL Window Functions and Aggregate Examples.md",
-    "Data Engineering Role Notes/SQL/Window Functions/SQL Window Function - 2.md",
-    "Data Engineering Role Notes/SQL/SQL DS Images/SQL DS Images.md",
-    "Data Engineering Role Notes/SQL/Miscellaneous/Lateral Joins.md",
-    "Data Engineering Role Notes/SQL/SQL SubQueries"
+    "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Other Important Concepts/Schema Operations.md"
   ]
 }
