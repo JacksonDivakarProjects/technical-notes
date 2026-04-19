@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Presentation Notes/Kmeans Statement.md",
+                "file": "Data Engineering Role Notes/Data Engineering Concepts/Data Bricks/Databricks Concepts/Parameters Passing with DBUTILS Widgets/Databricks Parameter Passing.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kmeans Statement"
+              "title": "Databricks Parameter Passing"
             }
           }
         ]
@@ -181,19 +181,28 @@
   },
   "active": "54d8c3359884386f",
   "lastOpenFiles": [
-    "AI Notes/Roles and Their Purpose.md",
+    "Data Engineering Role Notes/Pyspark/Pyspark Streaming/Output Modes in Streaming.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/Data Bricks/Databricks Concepts/Parameters Passing with DBUTILS Widgets/Databricks Parameter Passing.md",
+    "Data Engineering Role Notes/Data Engineering Concepts/Data Bricks/Databricks Concepts/Parameters Passing with DBUTILS Widgets",
+    "Temp Folder/Untitled.md",
+    "Temp Folder/SaMPLE.md",
+    "Temp Folder/Notes For Dashboard.md",
+    "Temp Folder/Untitled 1.md",
+    "Temp Folder/FINAL YEAR DOCUMENT/LITERATURE REVIEW.md",
+    "Temp Folder/FINAL YEAR DOCUMENT/EXISTING SYSTEMS.md",
+    "Data Engineering Role Notes/Pyspark/Pyspark Streaming/Pyspark Streaming.md",
+    "Data Engineering Role Notes/Pyspark/Pyspark Streaming/Spark Streaming Foundational Concepts.md",
+    "Temp Folder/FINAL YEAR DOCUMENT",
     "Presentation Notes/Kmeans Statement.md",
+    "AI Notes/Roles and Their Purpose.md",
     "Presentation Notes",
     "AI Notes/AutoModel Class.md",
     "Data Engineering Role Notes/Pyspark/Pyspark Streaming/ForEachBatch.md",
     "AI Notes",
-    "Data Engineering Role Notes/Pyspark/Pyspark Streaming/Output Modes in Streaming.md",
     "Data Engineering Role Notes/Pyspark/Pyspark Streaming/Types Of Windows.md",
     "Data Engineering Role Notes/Pyspark/Pyspark Streaming/Types Of Triggers.md",
     "Data Engineering Role Notes/Pyspark/Pyspark Streaming/Checkpointing And Idempotency.md",
     "Data Engineering Role Notes/Pyspark/Pyspark Streaming/Explode vs Explode Outer.md",
-    "Data Engineering Role Notes/Pyspark/Pyspark Streaming/Pyspark Streaming.md",
-    "Data Engineering Role Notes/Pyspark/Pyspark Streaming/Spark Streaming Foundational Concepts.md",
     "Data Engineering Role Notes/Pyspark/Pyspark Streaming/Autoloader In Spark Structured Streaming.md",
     "Data Engineering Role Notes/Pyspark/Pyspark Streaming/Why Complete Mode not Working in Watermarking.md",
     "Data Engineering Role Notes/Pyspark/Pyspark Streaming/Archive Source File.md",
@@ -202,7 +211,6 @@
     "Data Engineering Role Notes/Data Engineering Concepts/Data Bricks/Databricks Concepts/Managed Vs External Tables.md",
     "Data Engineering Role Notes/Data Engineering Concepts/Data Bricks/Databricks Concepts/Volumes.md",
     "Data Engineering Role Notes/Data Engineering Concepts/Data Bricks/Databricks Concepts/Views/Global Temp Views.md",
-    "Data Engineering Role Notes/Data Engineering Concepts/Data Bricks/Databricks Concepts/Untitled",
     "Data Engineering Role Notes/Data Engineering Concepts/Data Bricks/Databricks Training Images/Unity Catalog/firefox_9VeXScjAQQ.png",
     "Data Engineering Role Notes/Data Engineering Concepts/Data Bricks/Databricks Training Images/Unity Catalog/firefox_ppTAPWuBZE.png",
     "Data Engineering Role Notes/Data Engineering Concepts/Data Bricks/Databricks Training Images/Unity Catalog",
@@ -218,14 +226,6 @@
     "Temp/Untitled.md",
     "Data Engineering Role Notes/Data Engineering Concepts/Data Bricks/Ansh Video/Images/Screenshot 2026-03-08 at 06-36-31 Azure Data Engineer Full Course For Beginners (2026 Step-By-Step Guide) - YouTube.png",
     "Data Engineering Role Notes/Data Engineering Concepts/Data Bricks/Databricks Training Images/firefox_HH7poOn6oi.png",
-    "Data Engineering Role Notes/Data Engineering Concepts/Data Bricks/Databricks Training Images",
-    "Data Engineering Role Notes/Data Engineering Concepts/Data Bricks/New folder",
-    "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Delta Lake Commands in Different APIs/Delta Lake Commands in SQL API.md",
-    "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Delta Lake Commands in Different APIs/Delta Lake Commands in Python API with Spark.md",
-    "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Delta Lake Commands in Different APIs/Delta Lake Commands in Different APIs.md",
-    "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Important TBLProperties/Change Data Feed.md",
-    "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Important TBLProperties/Important TBLProperties.md",
-    "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Important TBLProperties/Table Utility Essential Commands.md",
-    "Data Engineering Role Notes/Data Engineering Concepts/Delta Lake/Important TBLProperties/Table Utility Commands.md"
+    "Data Engineering Role Notes/Data Engineering Concepts/Data Bricks/Databricks Training Images"
   ]
 }
